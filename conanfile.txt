@@ -1,0 +1,7 @@
+[requires]
+nlohmann_json/3.11.3
+libcurl/8.11.1
+
+[generators]
+CMakeToolchain
+CMakeDeps
