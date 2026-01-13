@@ -7,7 +7,7 @@ ApplicationWindow {
     visible: true
     width: 800
     height: 600
-    property string hostingKey: "45d625993607419da245250ba70e8c35"
+    property string hostingKey: "****"
 
     Map {
         id: trainMap
